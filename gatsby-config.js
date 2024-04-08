@@ -2,12 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Adam Folsom',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      'Adam Folsom is an experienced Senior Software Engineer with a strong track record of delivering high-quality projects, leading teams, and staying abreast of industry trends, who also enjoys physical fitness, art and crafts, and cooking in his free time.',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Adam Burton Folsom',
+        short_name: 'Adam Folsom',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
