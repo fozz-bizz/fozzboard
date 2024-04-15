@@ -70,11 +70,6 @@ TagsPage.propTypes = {
         }).isRequired,
       ),
     }),
-    site: PropTypes.shape({
-      siteMetadata: PropTypes.shape({
-        title: PropTypes.string.isRequired,
-      }),
-    }),
   }),
   location: PropTypes.object,
 };

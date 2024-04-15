@@ -1,19 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  siteMetadata: {
-    title: 'Adam Folsom',
-    description:
-      'Adam Folsom is an experienced Senior Software Engineer with a strong track record of delivering high-quality projects, leading teams, and staying abreast of industry trends, who also enjoys physical fitness, art and crafts, and cooking in his free time.',
-  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sitemap`,
-    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
