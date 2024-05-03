@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/adam-folsom-63a2682a5/',
+      url: 'https://www.linkedin.com/in/adam-folsom-fozz/',
     },
   ],
 
