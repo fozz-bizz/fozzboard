@@ -65,9 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        A passionate and forward-thinking innovator with a proven track record of delivering
-        groundbreaking projects within challenging timeframes, specializing in driving innovation in
-        software solutions, and a solid dedication to quality and excellence.
+        Seasoned Senior Software Engineer with over 10 years of experience in developing scalable
+        software solutions and leading technology teams. Expert in modern programming languages and
+        frameworks, with a strong focus on efficiency and innovation. Proven ability to navigate
+        complex project environments to deliver highimpact results that enhance user engagement and
+        business outcomes.
       </p>
     </>
   );

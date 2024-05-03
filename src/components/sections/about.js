@@ -159,7 +159,7 @@ const About = () => {
               Hey there! I'm Adam, and I'm passionate about crafting innovative software solutions
               that make a real impact. My journey into the world of software development began over
               a decade ago, and since then, I've honed my skills across various roles and
-              industries, from healthcare to augmented reality.
+              industries.
             </p>
 
             <p>
